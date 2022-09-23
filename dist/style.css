@@ -1,0 +1,14 @@
+body {
+    font-family: 'PT-Sans', sans-serif;
+    line-height: 1;
+}
+
+.header {
+    text-align: center;
+    background-color: #1F2833;
+    color: #66FCf1;
+}
+h2 {
+    font-weight: 700;
+    padding: 4% 0;
+}
