@@ -3,10 +3,10 @@ const manager = require("../lib/manager");
 describe("Manager", () => {
     describe("Tests", () => {
         it("should return correct constructors", () => {
-            const name = "David";
+            const name = "Amaal";
             const id = 4;
-            const email = "David@gmail.com";
-            const officeNumber = 3
+            const email = "Amaal@gmail.com";
+            const officeNumber = 4
 
             const obj = new Manager(name, id, email, officeNumber);
 

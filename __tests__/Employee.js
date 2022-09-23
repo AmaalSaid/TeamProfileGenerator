@@ -3,9 +3,9 @@ const Employee = require("../lib/Employee");
 describe("Employee", () => {
     describe("Tests", () => {
         it("should return correct constructors", () => {
-            const name = "David";
-            const id = 3;
-            const email = "David@gmail.com";
+            const name = "Amaal";
+            const id = 2;
+            const email = "amaal@gmail.com";
 
             const obj = new Employee(name, id, email);
 
